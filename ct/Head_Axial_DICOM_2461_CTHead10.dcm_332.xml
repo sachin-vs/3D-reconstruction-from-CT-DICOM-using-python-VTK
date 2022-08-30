@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<MidasMetadata>
+  <name>CTHead10.dcm</name>
+  <numberofdimensions>3</numberofdimensions>
+  <characteristics>
+    <spacing>
+      <x>3.2</x>
+      <y>3.2</y>
+      <z>1.5</z>
+    </spacing>
+    <origin>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </origin>
+    <size>
+      <x>64</x>
+      <y>64</y>
+      <z>93</z>
+    </size>
+  </characteristics>
+</MidasMetadata>
